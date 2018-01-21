@@ -1,6 +1,6 @@
 # Identity
 
-Name: Santosh Ganji
-GitHubID: santosh-2
-NetID: sant1
+* Name: Santosh Ganji
+* GitHubID: santosh-2
+* NetID: sant1
 
