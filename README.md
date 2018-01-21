@@ -1,2 +1,6 @@
-# santosh-2
-creating a new repo
+# Identity
+
+Name: Santosh Ganji
+GitHubID: santosh-2
+NetID: sant1
+
